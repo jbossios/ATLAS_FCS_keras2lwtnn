@@ -19,9 +19,9 @@ source CompileLWTNN.sh
 
 ## Create intermediate inputs to lwtnn
 
-### Create Variables.json file
+### Create variables.json file
 
-*Variables.json* should specify the name of the input variables (features) and of the labels (targets)
+*variables.json* should specify the name of the input variables (features) and of the labels (targets)
 
 Example:
 
