@@ -2,7 +2,7 @@
 
 Create JSON files from Keras models to do inference with [lwtnn](https://github.com/lwtnn/lwtnn)
 
-# How to clone?
+# How to get lwtnn?
 
 get source code (v2.12.1) from
 https://github.com/lwtnn/lwtnn/releases/tag/v2.12.1
