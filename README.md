@@ -27,7 +27,7 @@ source CompileLWTNN.sh
 
 ### Create Variables.json file
 
-*Variables.json* should specify the name of the input variables (features) and of the labels (targets)
+Create *Variables.json* file which should specify the name of the input variables (features) and of the labels (targets), and place it at the same place you placed the models (h5 files)
 
 Example:
 
