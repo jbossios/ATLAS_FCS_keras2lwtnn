@@ -1,7 +1,7 @@
 
-Particle       = 'photons'
-Version        = 'v14'
-ActivationType = 'tanh'
+Particle       = 'pions'
+Version        = 'v21'
+ActivationType = 'relu'
 
 # Path to HDF5 files
 PATH = '/home/jbossios/cern/FastCaloSim/Keras_Multipurpose_Regression/Results/{}/{}/Models/'.format(Particle,Version)
