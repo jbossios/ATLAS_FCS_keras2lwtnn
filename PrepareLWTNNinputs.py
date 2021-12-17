@@ -1,6 +1,6 @@
 
-Particle       = 'pions'
-Version        = 'v21'
+Particle       = 'pionsANDelectrons'
+Version        = 'v27'
 ActivationType = 'relu'
 
 # Path to HDF5 files
