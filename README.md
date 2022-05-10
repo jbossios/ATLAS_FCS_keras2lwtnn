@@ -63,6 +63,8 @@ Example:
 }
 ```
 
+You can use the ```MakeVariablesJSONfile.py``` to produce such files.
+
 ### Create architecture files with *PrepareLWTNNinputs.py*:
 
 Set:
@@ -93,3 +95,9 @@ Run:
 ```
 python CreateJSONs.py
 ```
+
+**NOTE:** The produced JSON files need to be moved to the appropriate location here:
+```
+/eos/atlas/atlascerngroupdisk/proj-simul/AF3_Run3/Jona/lwtnn_inputs/
+```
+
